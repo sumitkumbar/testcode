@@ -1,0 +1,37 @@
+button{
+    color:white;
+    background-color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width:200px;
+    height: 50%;
+    padding-left: 10px;
+    border-radius: 10px;
+    margin-top: 30px;
+    margin-left:20px;
+    animation-name: unset;
+}
+#st{
+    margin-top: 20px;
+    width: 250px;
+    height: 350px;
+    border: 3px solid black;
+    border-radius: 25px;
+    background-color:chartreuse;
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    box-shadow: 30px;
+
+    
+}
+.body{
+    display:flex ;
+    justify-content:space-evenly;
+}
+
+
+
+a{
+    height: 50px;
+    width: 100px;
+    columns: black;
+}

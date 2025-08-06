@@ -1,0 +1,23 @@
+{
+  "name": "sumit",
+  "version": "1.1.1",
+  "description": "sumit",
+  "main": "sumit.js",
+  "scripts": {
+    "strat": "node sumit.js",
+    "server": "nodemon sumit.js"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "sumit",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
